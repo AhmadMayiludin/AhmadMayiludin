@@ -1,8 +1,8 @@
-# Hi, I'm Ahmad Mayiludin👋
+# Hi, I'm Ahmad Mayiludin 👋
 
 🎓 **Informatics Student** | 💻 **Fullstack Developer** 
 
-Saya adalah seorang developer yang berfokus pada pengembangan sistem web dan API scalable.
+Saya adalah seorang developer yang berfokus pada pengembangan sistem web, aplikasi mobile, dan API scalable.
 
 ---
 
@@ -28,13 +28,16 @@ Saya adalah seorang developer yang berfokus pada pengembangan sistem web dan API
 
 ### 🔥 Highlight Projects
 
-#### Project A --- System Management
-Deskripsi singkat mengenai proyek kamu, teknologi yang digunakan, serta fitur utamanya.
+#### AMP Pedia --- Digital Marketplace Platform
+Platform e-commerce/marketplace untuk produk digital & e-book berbasis web.
 
-#### Project B --- Mobile App Inventory
-Aplikasi inventory berbasis mobile dengan fitur pemindaian QR code.
+#### Mobile Asset Inventory --- PERUMDA Tirta Bhagasasi
+Aplikasi manajemen aset berbasis mobile (Ionic Angular) dilengkapi fitur pemindaian QR code via Google ML Kit.
+
+#### Driver Drowsiness Detection System
+Sistem deteksi kantuk pengemudi berbasis IoT & Computer Vision menggunakan YOLOv5 dan ESP32-CAM.
 
 ---
 
 ### 📬 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/ahmad-mayiludin
+- **LinkedIn:** [Ahmad Mayiludin](https://www.linkedin.com/in/ahmad-mayiludin)
